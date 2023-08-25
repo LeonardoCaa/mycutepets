@@ -42,8 +42,8 @@
         android:layout_height="wrap_content"
         android:text="Entrar"/>
     <Button
-        android:layout_margin="20dp"
-
+        android:layout_marginTop="20sp"
+        android:layout_marginLeft="160sp"
         android:layout_below="@+id/edtSenha"
         android:layout_toRightOf="@+id/btnEntrar"
         android:id="@+id/btnSair"
